@@ -36,10 +36,10 @@ PERUSAHAAN = {"nama": "PT. Wahana Rezeki Sempurna", "logo": "logo.png"}
 
 # Menu navbar: (teks menu, kode halaman)
 MENU = [
-    ("Home", "home"),
+    ("Beranda", "home"),
     ("Artikel Event", "event"),
     ("Lokasi Mal", "lokasi"),
-    ("Contact", "kontak"),
+    ("Kontak", "kontak"),
 ]
 
 # ------------------------------- HALAMAN HOME --------------------------------
